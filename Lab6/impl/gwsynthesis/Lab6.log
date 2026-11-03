@@ -1,0 +1,19 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'D:\Ki4\FAP\Lab6\src\Lab6.vhd'
+Analyzing entity 'key_conditioner'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":9)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":20)
+Analyzing entity 'lab6_game'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":58)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":77)
+Analyzing entity 'sevenseg_74hc595'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":208)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":226)
+Analyzing entity 'lab6_top_74hc595'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":318)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":339)
+Analyzing VHDL file 'D:\Ki4\FAP\Lab6\src\Lab6tb.vhd'
+Analyzing entity 'lab6_tb'("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":8)
+Analyzing architecture 'test'("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":9)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":30)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":67)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":170)
+ERROR (EX0302) : No valid top module found
+GowinSynthesis finish

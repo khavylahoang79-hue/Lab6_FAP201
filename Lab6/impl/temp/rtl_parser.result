@@ -1,0 +1,52 @@
+[
+ {
+  "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+  "InstLine" : 332,
+  "InstName" : "lab06_top_74hc595",
+  "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+  "ModuleLine" : 332,
+  "ModuleName" : "lab06_top_74hc595",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "InstLine" : 364,
+    "InstName" : "gen_keys[0].u_key",
+    "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "ModuleLine" : 12,
+    "ModuleName" : "key_conditioner"
+   },
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "InstLine" : 364,
+    "InstName" : "gen_keys[1].u_key",
+    "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "ModuleLine" : 12,
+    "ModuleName" : "key_conditioner"
+   },
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "InstLine" : 364,
+    "InstName" : "gen_keys[2].u_key",
+    "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "ModuleLine" : 12,
+    "ModuleName" : "key_conditioner"
+   },
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "InstLine" : 380,
+    "InstName" : "u_game",
+    "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "ModuleLine" : 63,
+    "ModuleName" : "lab06_game"
+   },
+   {
+    "InstFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "InstLine" : 386,
+    "InstName" : "u_display",
+    "ModuleFile" : "D:/Ki4/FAP/Lab6/src/Lab6.vhd",
+    "ModuleLine" : 220,
+    "ModuleName" : "sevenseg_74hc595"
+   }
+  ]
+ }
+]

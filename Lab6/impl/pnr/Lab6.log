@@ -1,0 +1,25 @@
+Reading netlist file: "D:\Ki4\FAP\Lab6\impl\gwsynthesis\Lab6.vg"
+Parsing netlist file "D:\Ki4\FAP\Lab6\impl\gwsynthesis\Lab6.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\Ki4\FAP\Lab6\src\Lab6.cst"
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":3 | Can't find object named 'clk_50m_i'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":4 | Can't find object named 'key_raw_i[0]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":5 | Can't find object named 'key_raw_i[1]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":6 | Can't find object named 'key_raw_i[2]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":7 | Can't find object named 'led_pin_o[0]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":8 | Can't find object named 'led_pin_o[1]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":9 | Can't find object named 'led_pin_o[2]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":10 | Can't find object named 'seg_ds_o'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":11 | Can't find object named 'seg_stcp_o'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":12 | Can't find object named 'seg_shcp_o'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":15 | Can't find object named 'clk_50m_i'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":16 | Can't find object named 'key_raw_i[0]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":17 | Can't find object named 'key_raw_i[1]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":18 | Can't find object named 'key_raw_i[2]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":19 | Can't find object named 'led_pin_o[0]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":20 | Can't find object named 'led_pin_o[1]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":21 | Can't find object named 'led_pin_o[2]'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":22 | Can't find object named 'seg_ds_o'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":23 | Can't find object named 'seg_stcp_o'
+ERROR  (CT1135) : "D:\Ki4\FAP\Lab6\src\Lab6.cst":24 | Can't find object named 'seg_shcp_o'
+Physical Constraint parsed completed with errors

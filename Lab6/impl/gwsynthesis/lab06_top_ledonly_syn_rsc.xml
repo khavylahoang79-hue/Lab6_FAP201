@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="lab06_top_74hc595" Register="1" T_Register="192(1)" T_Alu="60(0)" T_Lut="291(0)">
+ <SubModule name="gen_keys[0].u_key" Register="24" Alu="19" Lut="11" T_Register="24(24)" T_Alu="19(19)" T_Lut="11(11)"/>
+ <SubModule name="gen_keys[1].u_key" Register="24" Alu="19" Lut="11" T_Register="24(24)" T_Alu="19(19)" T_Lut="11(11)"/>
+ <SubModule name="gen_keys[2].u_key" Register="24" Alu="19" Lut="11" T_Register="24(24)" T_Alu="19(19)" T_Lut="11(11)"/>
+ <SubModule name="u_game" Register="73" Alu="3" Lut="182" T_Register="73(73)" T_Alu="3(3)" T_Lut="182(182)"/>
+ <SubModule name="u_display" Register="46" Lut="76" T_Register="46(46)" T_Lut="76(76)"/>
+</Module>

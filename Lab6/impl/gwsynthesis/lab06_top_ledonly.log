@@ -1,0 +1,41 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'D:\Ki4\FAP\Lab6\src\Lab6.vhd'
+Analyzing entity 'key_conditioner'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":12)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":23)
+Analyzing entity 'lab06_game'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":63)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":82)
+Analyzing entity 'sevenseg_74hc595'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":220)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":238)
+Analyzing entity 'lab06_top_74hc595'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":332)
+Analyzing architecture 'rtl'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":353)
+Analyzing VHDL file 'D:\Ki4\FAP\Lab6\src\Lab6tb.vhd'
+Analyzing entity 'lab06_tb'("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":8)
+Analyzing architecture 'test'("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":9)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":30)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":67)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("D:\Ki4\FAP\Lab6\src\Lab6tb.vhd":170)
+Processing 'lab06_top_74hc595(rtl)'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":332)
+Processing 'key_conditioner(rtl)'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":12)
+Processing 'lab06_game(rtl)'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":63)
+Processing 'sevenseg_74hc595(rtl)'("D:\Ki4\FAP\Lab6\src\Lab6.vhd":220)
+NOTE  (EX0101) : Current top module is "lab06_top_74hc595"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\Ki4\FAP\Lab6\impl\gwsynthesis\lab06_top_ledonly.vg" completed
+[100%] Generate report file "D:\Ki4\FAP\Lab6\impl\gwsynthesis\lab06_top_ledonly_syn.rpt.html" completed
+GowinSynthesis finish

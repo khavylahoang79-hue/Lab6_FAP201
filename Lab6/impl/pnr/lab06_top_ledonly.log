@@ -1,0 +1,29 @@
+Reading netlist file: "D:\Ki4\FAP\Lab6\impl\gwsynthesis\lab06_top_ledonly.vg"
+Parsing netlist file "D:\Ki4\FAP\Lab6\impl\gwsynthesis\lab06_top_ledonly.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\Ki4\FAP\Lab6\src\Lab6.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\Ki4\FAP\Lab6\impl\pnr\lab06_top_ledonly.power.html" completed
+Generate file "D:\Ki4\FAP\Lab6\impl\pnr\lab06_top_ledonly.pin.html" completed
+Generate file "D:\Ki4\FAP\Lab6\impl\pnr\lab06_top_ledonly.rpt.html" completed
+Generate file "D:\Ki4\FAP\Lab6\impl\pnr\lab06_top_ledonly.rpt.txt" completed
+Generate file "D:\Ki4\FAP\Lab6\impl\pnr\lab06_top_ledonly.tr.html" completed
+Tue Nov  3 14:03:56 2026
+
